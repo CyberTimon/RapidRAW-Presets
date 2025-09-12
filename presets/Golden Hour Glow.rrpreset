@@ -1,0 +1,171 @@
+{
+  "presets": [
+    {
+      "preset": {
+        "id": "49841088-a66d-4814-b8c7-f003a17b95a7",
+        "name": "Golden Hour Glow",
+        "adjustments": {
+          "blacks": 0,
+          "chromaticAberrationBlueYellow": 0,
+          "chromaticAberrationRedCyan": 0,
+          "clarity": 17,
+          "colorGrading": {
+            "balance": 0,
+            "blending": 50,
+            "highlights": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
+            },
+            "midtones": {
+              "h": 330,
+              "hue": 36,
+              "lum": 0,
+              "luminance": 32,
+              "s": 33,
+              "saturation": 33
+            },
+            "shadows": {
+              "h": 207,
+              "hue": 225,
+              "lum": 0,
+              "luminance": 0,
+              "s": 11,
+              "saturation": 3
+            }
+          },
+          "colorNoiseReduction": 0,
+          "contrast": 34,
+          "curves": {
+            "blue": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "green": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "luma": [
+              {
+                "x": 0,
+                "y": 21.097122302158283
+              },
+              {
+                "x": 23.848920863309353,
+                "y": 27.517985611510795
+              },
+              {
+                "x": 172.44604316546764,
+                "y": 189.8741007194245
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "red": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ]
+          },
+          "dehaze": 0,
+          "enableNegativeConversion": false,
+          "exposure": 0.52,
+          "filmBaseColor": "#ff8800",
+          "grainAmount": 0,
+          "grainRoughness": 50,
+          "grainSize": 25,
+          "highlights": -20,
+          "hsl": {
+            "aquas": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": -40
+            },
+            "blues": {
+              "hue": 0,
+              "luminance": -10,
+              "saturation": -50
+            },
+            "greens": {
+              "hue": -51,
+              "luminance": 0,
+              "saturation": -31
+            },
+            "magentas": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
+            },
+            "oranges": {
+              "hue": -29,
+              "luminance": 35,
+              "saturation": 61
+            },
+            "purples": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
+            },
+            "reds": {
+              "hue": -6,
+              "luminance": 5,
+              "saturation": 13
+            },
+            "yellows": {
+              "hue": -61,
+              "luminance": 65,
+              "saturation": 0
+            }
+          },
+          "lumaNoiseReduction": 0,
+          "lutIntensity": 100,
+          "lutName": null,
+          "lutPath": null,
+          "lutSize": 0,
+          "negativeBlueBalance": 0,
+          "negativeGreenBalance": 0,
+          "negativeRedBalance": 0,
+          "saturation": 8,
+          "sectionVisibility": {
+            "basic": true,
+            "color": true,
+            "curves": true,
+            "details": true,
+            "effects": true
+          },
+          "shadows": 25,
+          "sharpness": 8,
+          "showClipping": false,
+          "structure": 9,
+          "temperature": 21,
+          "tint": 5,
+          "vibrance": 10,
+          "vignetteAmount": -10,
+          "vignetteFeather": 60,
+          "vignetteMidpoint": 50,
+          "vignetteRoundness": 0,
+          "whites": 0
+        }
+      }
+    }
+  ]
+}

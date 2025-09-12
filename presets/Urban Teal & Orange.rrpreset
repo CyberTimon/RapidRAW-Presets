@@ -1,0 +1,169 @@
+{
+  "presets": [
+    {
+      "preset": {
+        "id": "e7e89c9a-55e4-4421-966f-b279849c7575",
+        "name": "Urban Teal & Orange",
+        "adjustments": {
+          "blacks": 0,
+          "chromaticAberrationBlueYellow": 0,
+          "chromaticAberrationRedCyan": 0,
+          "clarity": 8,
+          "colorGrading": {
+            "balance": 0,
+            "blending": 50,
+            "highlights": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
+            },
+            "midtones": {
+              "h": 21,
+              "hue": 7,
+              "lum": 0,
+              "s": 28,
+              "saturation": 19
+            },
+            "shadows": {
+              "h": 195,
+              "hue": 245,
+              "lum": 0,
+              "s": 20,
+              "saturation": 17
+            }
+          },
+          "colorNoiseReduction": 0,
+          "contrast": 50,
+          "curves": {
+            "blue": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "green": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "luma": [
+              {
+                "x": 0,
+                "y": 21.428571428571445
+              },
+              {
+                "x": 26.600719424460433,
+                "y": 27.517985611510795
+              },
+              {
+                "x": 169.28571428571428,
+                "y": 185.3571428571429
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "red": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ]
+          },
+          "dehaze": 0,
+          "enableNegativeConversion": false,
+          "exposure": 0.56,
+          "filmBaseColor": "#ff8800",
+          "grainAmount": 0,
+          "grainRoughness": 50,
+          "grainSize": 25,
+          "highlights": 23,
+          "hsl": {
+            "aquas": {
+              "hue": -20,
+              "luminance": 0,
+              "saturation": -61
+            },
+            "blues": {
+              "hue": -25,
+              "luminance": -5,
+              "saturation": 35
+            },
+            "greens": {
+              "hue": 50,
+              "luminance": 0,
+              "saturation": -55
+            },
+            "magentas": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": -60
+            },
+            "oranges": {
+              "hue": -8,
+              "luminance": 8,
+              "saturation": 15
+            },
+            "purples": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": -60
+            },
+            "reds": {
+              "hue": -10,
+              "luminance": 5,
+              "saturation": 10
+            },
+            "yellows": {
+              "hue": -25,
+              "luminance": 0,
+              "saturation": -15
+            }
+          },
+          "lumaNoiseReduction": 0,
+          "lutIntensity": 100,
+          "lutName": null,
+          "lutPath": null,
+          "lutSize": 0,
+          "negativeBlueBalance": 0,
+          "negativeGreenBalance": 0,
+          "negativeRedBalance": 0,
+          "saturation": -5,
+          "sectionVisibility": {
+            "basic": true,
+            "color": true,
+            "curves": true,
+            "details": true,
+            "effects": true
+          },
+          "shadows": 5,
+          "sharpness": 14,
+          "showClipping": false,
+          "structure": 0,
+          "temperature": 9,
+          "tint": -8,
+          "vibrance": 5,
+          "vignetteAmount": -13,
+          "vignetteFeather": 73,
+          "vignetteMidpoint": 32,
+          "vignetteRoundness": 0,
+          "whites": 9
+        }
+      }
+    }
+  ]
+}
