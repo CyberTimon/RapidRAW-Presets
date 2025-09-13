@@ -3,40 +3,36 @@
   "presets": [
     {
       "preset": {
-        "id": "49841088-a66d-4814-b8c7-f003a17b95a7",
-        "name": "Golden Hour Glow",
+        "id": "d1e7d6eb-b25c-42d7-bcce-b4eff636830e",
+        "name": "Vintage Film",
         "adjustments": {
           "blacks": 0,
           "chromaticAberrationBlueYellow": 0,
           "chromaticAberrationRedCyan": 0,
-          "clarity": 10,
+          "clarity": 0,
           "colorGrading": {
             "balance": 0,
             "blending": 50,
             "highlights": {
-              "hue": 0,
+              "hue": 186,
               "luminance": 0,
-              "saturation": 0
+              "saturation": 10
             },
             "midtones": {
-              "h": 330,
-              "hue": 36,
+              "h": 0,
+              "hue": 21,
               "lum": 0,
-              "luminance": 32,
-              "s": 33,
-              "saturation": 33
+              "s": 0,
+              "saturation": 27
             },
             "shadows": {
-              "h": 207,
-              "hue": 225,
-              "lum": 0,
+              "hue": 252,
               "luminance": 0,
-              "s": 11,
-              "saturation": 3
+              "saturation": 1
             }
           },
           "colorNoiseReduction": 0,
-          "contrast": 34,
+          "contrast": -30,
           "curves": {
             "blue": [
               {
@@ -61,19 +57,19 @@
             "luma": [
               {
                 "x": 0,
-                "y": 21.097122302158283
+                "y": 41.789297658862864
               },
               {
-                "x": 23.848920863309353,
-                "y": 27.517985611510795
+                "x": 64.73076923076923,
+                "y": 49.03846153846155
               },
               {
-                "x": 172.44604316546764,
-                "y": 189.8741007194245
+                "x": 190.1839464882943,
+                "y": 197.0066889632107
               },
               {
                 "x": 255,
-                "y": 255
+                "y": 249.8829431438127
               }
             ],
             "red": [
@@ -89,27 +85,27 @@
           },
           "dehaze": 0,
           "enableNegativeConversion": false,
-          "exposure": 0.42,
+          "exposure": 0.4,
           "filmBaseColor": "#ff8800",
-          "grainAmount": 0,
+          "grainAmount": 20,
           "grainRoughness": 50,
           "grainSize": 25,
-          "highlights": -20,
+          "highlights": 15,
           "hsl": {
             "aquas": {
               "hue": 0,
               "luminance": 0,
-              "saturation": -40
+              "saturation": 0
             },
             "blues": {
-              "hue": 0,
+              "hue": 15,
               "luminance": -10,
-              "saturation": -50
+              "saturation": -25
             },
             "greens": {
-              "hue": -51,
-              "luminance": 0,
-              "saturation": -31
+              "hue": -20,
+              "luminance": -5,
+              "saturation": -30
             },
             "magentas": {
               "hue": 0,
@@ -117,9 +113,9 @@
               "saturation": 0
             },
             "oranges": {
-              "hue": -29,
-              "luminance": 35,
-              "saturation": 61
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
             },
             "purples": {
               "hue": 0,
@@ -127,14 +123,14 @@
               "saturation": 0
             },
             "reds": {
-              "hue": -6,
-              "luminance": 5,
-              "saturation": 13
+              "hue": 5,
+              "luminance": 0,
+              "saturation": -10
             },
             "yellows": {
-              "hue": -61,
-              "luminance": 65,
-              "saturation": 0
+              "hue": -10,
+              "luminance": 0,
+              "saturation": -20
             }
           },
           "lumaNoiseReduction": 0,
@@ -145,7 +141,7 @@
           "negativeBlueBalance": 0,
           "negativeGreenBalance": 0,
           "negativeRedBalance": 0,
-          "saturation": 8,
+          "saturation": -35,
           "sectionVisibility": {
             "basic": true,
             "color": true,
@@ -153,18 +149,18 @@
             "details": true,
             "effects": true
           },
-          "shadows": 25,
-          "sharpness": 5,
+          "shadows": -12,
+          "sharpness": 0,
           "showClipping": false,
-          "structure": 9,
-          "temperature": 21,
-          "tint": 5,
-          "vibrance": 10,
-          "vignetteAmount": -10,
-          "vignetteFeather": 60,
+          "structure": 0,
+          "temperature": 12,
+          "tint": -24,
+          "vibrance": 6,
+          "vignetteAmount": -27,
+          "vignetteFeather": 68,
           "vignetteMidpoint": 50,
           "vignetteRoundness": 0,
-          "whites": 0
+          "whites": 16
         }
       }
     }

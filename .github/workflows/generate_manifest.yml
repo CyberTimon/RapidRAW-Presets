@@ -69,8 +69,8 @@ jobs:
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "docs: auto-generate presets manifest"
+          commit_message: "auto-generate presets manifest"
           file_pattern: "manifest.json"
-          commit_user_name: "GitHub Actions Bot"
+          commit_user_name: "RapidRAW Presets Bot"
           commit_user_email: "actions@github.com"
           commit_author: "GitHub Actions Bot <actions@github.com>"
