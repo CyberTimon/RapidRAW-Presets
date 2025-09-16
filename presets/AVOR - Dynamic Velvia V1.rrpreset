@@ -1,0 +1,170 @@
+{
+  "creator": "avoiceofreason",
+  "presets": [
+    {
+      "preset": {
+        "id": "4e73fb96-e3c1-4c3f-8414-2e5fc5939005",
+        "name": "AVOR - Dynamic Velvia V1",
+        "adjustments": {
+          "blacks": -5,
+          "chromaticAberrationBlueYellow": 0,
+          "chromaticAberrationRedCyan": 0,
+          "clarity": 10,
+          "colorGrading": {
+            "balance": 10,
+            "blending": 50,
+            "highlights": {
+              "hue": 351,
+              "luminance": 10,
+              "saturation": 29
+            },
+            "midtones": {
+              "hue": 346,
+              "luminance": 5,
+              "saturation": 19
+            },
+            "shadows": {
+              "hue": 228,
+              "luminance": 5,
+              "saturation": 24
+            }
+          },
+          "colorNoiseReduction": 5,
+          "contrast": 0,
+          "curves": {
+            "blue": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "green": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "luma": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 60,
+                "y": 64.26829268292684
+              },
+              {
+                "x": 127.5,
+                "y": 136.8292682926829
+              },
+              {
+                "x": 190.71428571428572,
+                "y": 203.1707317073171
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "red": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ]
+          },
+          "dehaze": 0,
+          "enableNegativeConversion": false,
+          "exposure": 1,
+          "filmBaseColor": "#ff8800",
+          "grainAmount": 10,
+          "grainRoughness": 40,
+          "grainSize": 19,
+          "highlights": 20,
+          "hsl": {
+            "aquas": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
+            },
+            "blues": {
+              "hue": 5,
+              "luminance": 4,
+              "saturation": 5
+            },
+            "greens": {
+              "hue": 5,
+              "luminance": -5,
+              "saturation": 5
+            },
+            "magentas": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
+            },
+            "oranges": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 5
+            },
+            "purples": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
+            },
+            "reds": {
+              "hue": 4,
+              "luminance": 5,
+              "saturation": 5
+            },
+            "yellows": {
+              "hue": 5,
+              "luminance": -5,
+              "saturation": 5
+            }
+          },
+          "lumaNoiseReduction": 5,
+          "lutIntensity": 100,
+          "lutName": null,
+          "lutPath": null,
+          "lutSize": 0,
+          "negativeBlueBalance": 0,
+          "negativeGreenBalance": 0,
+          "negativeRedBalance": 0,
+          "saturation": 10,
+          "sectionVisibility": {
+            "basic": true,
+            "color": true,
+            "curves": true,
+            "details": true,
+            "effects": true
+          },
+          "shadows": 25,
+          "sharpness": 15,
+          "showClipping": false,
+          "structure": 0,
+          "temperature": 0,
+          "tint": 0,
+          "vibrance": 0,
+          "vignetteAmount": 0,
+          "vignetteFeather": 50,
+          "vignetteMidpoint": 50,
+          "vignetteRoundness": 0,
+          "whites": 20
+        }
+      }
+    }
+  ]
+}
