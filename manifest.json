@@ -1,5 +1,176 @@
 [
   {
+    "name": "AVOR - Dynamic Black and White V1",
+    "creator": "avoiceofreason",
+    "adjustments": {
+      "blacks": -50,
+      "chromaticAberrationBlueYellow": 0,
+      "chromaticAberrationRedCyan": 0,
+      "clarity": 30,
+      "colorGrading": {
+        "balance": 0,
+        "blending": 50,
+        "highlights": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "midtones": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "shadows": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        }
+      },
+      "colorNoiseReduction": 0,
+      "contrast": 0,
+      "curves": {
+        "blue": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "green": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "luma": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 43.92857142857143,
+            "y": 32.134146341463406
+          },
+          {
+            "x": 85.71428571428572,
+            "y": 68.41463414634146
+          },
+          {
+            "x": 126.42857142857144,
+            "y": 126.46341463414636
+          },
+          {
+            "x": 158.57142857142858,
+            "y": 183.47560975609755
+          },
+          {
+            "x": 202.5,
+            "y": 224.9390243902439
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "red": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ]
+      },
+      "dehaze": 30,
+      "enableNegativeConversion": false,
+      "exposure": 0,
+      "filmBaseColor": "#ff8800",
+      "grainAmount": 0,
+      "grainRoughness": 50,
+      "grainSize": 25,
+      "highlights": 50,
+      "hsl": {
+        "aquas": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": -100
+        },
+        "blues": {
+          "hue": 0,
+          "luminance": 50,
+          "saturation": -100
+        },
+        "greens": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": -100
+        },
+        "magentas": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": -100
+        },
+        "oranges": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": -100
+        },
+        "purples": {
+          "hue": 0,
+          "luminance": 50,
+          "saturation": -100
+        },
+        "reds": {
+          "hue": 0,
+          "luminance": 50,
+          "saturation": -100
+        },
+        "yellows": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": -100
+        }
+      },
+      "lumaNoiseReduction": 0,
+      "lutIntensity": 100,
+      "lutName": null,
+      "lutPath": null,
+      "lutSize": 0,
+      "negativeBlueBalance": 0,
+      "negativeGreenBalance": 0,
+      "negativeRedBalance": 0,
+      "saturation": 0,
+      "sectionVisibility": {
+        "basic": true,
+        "color": true,
+        "curves": true,
+        "details": true,
+        "effects": true
+      },
+      "shadows": 100,
+      "sharpness": 0,
+      "showClipping": false,
+      "structure": 0,
+      "temperature": -100,
+      "tint": -100,
+      "vibrance": 0,
+      "vignetteAmount": 0,
+      "vignetteFeather": 50,
+      "vignetteMidpoint": 50,
+      "vignetteRoundness": 0,
+      "whites": 50
+    }
+  },
+  {
     "name": "Cinematic",
     "creator": "Timon Käch",
     "adjustments": {
