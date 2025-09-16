@@ -21,7 +21,10 @@ I've created this template to make the submission process as smooth as possible.
     *   Save the `.rrpreset` file to your computer.
 
 2.  **Add Your Creator Name**
-    *   Open the `.rrpreset` file you just saved with any text editor (like VS Code, Notepad, or TextEdit).
+    *   **Important:** GitHub doesn’t allow uploading files with custom extensions like `.rrpreset`.  
+        To work around this:
+        *   Rename your exported file from `MyPreset.rrpreset` -> `MyPreset.rrpreset.txt`.
+        *   Open the `MyPreset.rrpreset.txt` file with any text editor (like VS Code, Notepad, or TextEdit).
     *   Find the line that says `"creator": "Anonymous"`.
     *   Replace `"Anonymous"` with your name or GitHub handle. This is how you will be credited.
 
@@ -37,14 +40,14 @@ I've created this template to make the submission process as smooth as possible.
 
 3.  **Attach the Preset File**
     *   Return to this issue page.
-    *   **Drag and drop your edited `.rrpreset` file** into the text box below (upload preset).
+    *   **Drag and drop your edited file (still named with `.rrpreset.txt` at the end)** into the text box below (upload preset).
 
 ---
 
 ### Final Confirmation
 
 - [ ] I have followed all the steps above.
-- [ ] I have attached my edited `.rrpreset` file to this issue.
+- [ ] I have attached my edited `.rrpreset.txt` file to this issue.
 
 ### (Optional) Preset Description
 
