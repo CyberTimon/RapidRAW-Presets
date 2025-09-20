@@ -334,6 +334,217 @@
     }
   },
   {
+    "name": "AVOR - Urban Mood V1",
+    "creator": "avoiceofreason",
+    "adjustments": {
+      "blacks": -19,
+      "chromaticAberrationBlueYellow": 0,
+      "chromaticAberrationRedCyan": 0,
+      "clarity": 5,
+      "colorGrading": {
+        "balance": 0,
+        "blending": 12,
+        "highlights": {
+          "hue": 0,
+          "luminance": 7,
+          "saturation": 0
+        },
+        "midtones": {
+          "hue": 222,
+          "luminance": 0,
+          "saturation": 19
+        },
+        "shadows": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        }
+      },
+      "colorNoiseReduction": 55,
+      "contrast": 7,
+      "curves": {
+        "blue": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 37,
+            "y": 32
+          },
+          {
+            "x": 68,
+            "y": 75
+          },
+          {
+            "x": 133,
+            "y": 126
+          },
+          {
+            "x": 194,
+            "y": 202
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "green": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 74,
+            "y": 61
+          },
+          {
+            "x": 132,
+            "y": 128
+          },
+          {
+            "x": 190,
+            "y": 198
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "luma": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 31,
+            "y": 32
+          },
+          {
+            "x": 74,
+            "y": 63
+          },
+          {
+            "x": 129,
+            "y": 129
+          },
+          {
+            "x": 192,
+            "y": 200
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "red": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 29,
+            "y": 22
+          },
+          {
+            "x": 72,
+            "y": 62
+          },
+          {
+            "x": 132,
+            "y": 132
+          },
+          {
+            "x": 198,
+            "y": 205
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ]
+      },
+      "dehaze": 7,
+      "enableNegativeConversion": false,
+      "exposure": 0,
+      "filmBaseColor": "#ff8800",
+      "grainAmount": 0,
+      "grainRoughness": 50,
+      "grainSize": 25,
+      "highlights": -16,
+      "hsl": {
+        "aquas": {
+          "hue": 32,
+          "luminance": -23,
+          "saturation": -62
+        },
+        "blues": {
+          "hue": -3,
+          "luminance": -25,
+          "saturation": -65
+        },
+        "greens": {
+          "hue": -33,
+          "luminance": -23,
+          "saturation": -100
+        },
+        "magentas": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "oranges": {
+          "hue": -5,
+          "luminance": 7,
+          "saturation": 10
+        },
+        "purples": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "reds": {
+          "hue": 13,
+          "luminance": 5,
+          "saturation": 7
+        },
+        "yellows": {
+          "hue": -100,
+          "luminance": 8,
+          "saturation": -42
+        }
+      },
+      "lumaNoiseReduction": 50,
+      "lutIntensity": 100,
+      "lutName": null,
+      "lutPath": null,
+      "lutSize": 0,
+      "negativeBlueBalance": 0,
+      "negativeGreenBalance": 0,
+      "negativeRedBalance": 0,
+      "saturation": 0,
+      "sectionVisibility": {
+        "basic": true,
+        "color": true,
+        "curves": true,
+        "details": true,
+        "effects": true
+      },
+      "shadows": 30,
+      "sharpness": 5,
+      "showClipping": false,
+      "structure": 21,
+      "temperature": 12,
+      "tint": 0,
+      "vibrance": 16,
+      "vignetteAmount": -11,
+      "vignetteFeather": 96,
+      "vignetteMidpoint": 0,
+      "vignetteRoundness": 89,
+      "whites": 30
+    }
+  },
+  {
     "name": "Cinematic",
     "creator": "Timon Käch",
     "adjustments": {
