@@ -1,6 +1,161 @@
 [
   {
-    "name": "AVOR - Dynamic Black and White V1",
+    "name": "AVOR - Absolute Polaroid",
+    "creator": "avoiceofreason",
+    "adjustments": {
+      "blacks": -50,
+      "chromaticAberrationBlueYellow": 0,
+      "chromaticAberrationRedCyan": 0,
+      "clarity": -19,
+      "colorGrading": {
+        "balance": -32,
+        "blending": 50,
+        "highlights": {
+          "hue": 22,
+          "luminance": 0,
+          "saturation": 37
+        },
+        "midtones": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "shadows": {
+          "hue": 239,
+          "luminance": 0,
+          "saturation": 53
+        }
+      },
+      "colorNoiseReduction": 0,
+      "contrast": 33,
+      "curves": {
+        "blue": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "green": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "luma": [
+          {
+            "x": 0,
+            "y": 30.0609756097561
+          },
+          {
+            "x": 45,
+            "y": 65.3048780487805
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "red": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ]
+      },
+      "dehaze": -15,
+      "enableNegativeConversion": false,
+      "exposure": -0.26,
+      "filmBaseColor": "#ff8800",
+      "grainAmount": 26,
+      "grainRoughness": 50,
+      "grainSize": 39,
+      "highlights": 37,
+      "hsl": {
+        "aquas": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "blues": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": -55
+        },
+        "greens": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "magentas": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "oranges": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": -76
+        },
+        "purples": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "reds": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "yellows": {
+          "hue": 73,
+          "luminance": 0,
+          "saturation": -85
+        }
+      },
+      "lumaNoiseReduction": 0,
+      "lutIntensity": 100,
+      "lutName": null,
+      "lutPath": null,
+      "lutSize": 0,
+      "negativeBlueBalance": 0,
+      "negativeGreenBalance": 0,
+      "negativeRedBalance": 0,
+      "saturation": -43,
+      "sectionVisibility": {
+        "basic": true,
+        "color": true,
+        "curves": true,
+        "details": true,
+        "effects": true
+      },
+      "shadows": -24,
+      "sharpness": 0,
+      "showClipping": false,
+      "structure": -5,
+      "temperature": -24,
+      "tint": -6,
+      "vibrance": 45,
+      "vignetteAmount": -68,
+      "vignetteFeather": 100,
+      "vignetteMidpoint": 50,
+      "vignetteRoundness": -100,
+      "whites": 47
+    }
+  },
+  {
+    "name": "AVOR - Dynamic Black and White",
     "creator": "avoiceofreason",
     "adjustments": {
       "blacks": -50,
@@ -171,7 +326,7 @@
     }
   },
   {
-    "name": "AVOR - Dynamic Velvia V1",
+    "name": "AVOR - Dynamic Velvia",
     "creator": "avoiceofreason",
     "adjustments": {
       "blacks": -5,
@@ -334,7 +489,7 @@
     }
   },
   {
-    "name": "AVOR - Urban Mood V1",
+    "name": "AVOR - Urban Mood",
     "creator": "avoiceofreason",
     "adjustments": {
       "blacks": -19,
@@ -545,7 +700,7 @@
     }
   },
   {
-    "name": "AVOR - Urban Myth V1",
+    "name": "AVOR - Urban Myth",
     "creator": "avoiceofreason",
     "adjustments": {
       "blacks": -28,
