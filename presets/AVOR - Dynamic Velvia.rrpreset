@@ -3,43 +3,39 @@
   "presets": [
     {
       "preset": {
-        "id": "0fab2ac4-9600-42a6-83f0-3ffdc5a5ae01",
-        "name": "AVOR - Urban Myth V1",
+        "id": "4e73fb96-e3c1-4c3f-8414-2e5fc5939005",
+        "name": "AVOR - Dynamic Velvia",
         "adjustments": {
-          "blacks": -28,
+          "blacks": -5,
           "chromaticAberrationBlueYellow": 0,
           "chromaticAberrationRedCyan": 0,
-          "clarity": 1,
+          "clarity": 10,
           "colorGrading": {
-            "balance": 0,
+            "balance": 10,
             "blending": 50,
             "highlights": {
-              "hue": 197,
-              "luminance": 0,
-              "saturation": 34
+              "hue": 351,
+              "luminance": 10,
+              "saturation": 29
             },
             "midtones": {
-              "hue": 0,
-              "luminance": 0,
-              "saturation": 0
+              "hue": 346,
+              "luminance": 5,
+              "saturation": 19
             },
             "shadows": {
-              "hue": 182,
-              "luminance": 0,
-              "saturation": 22
+              "hue": 228,
+              "luminance": 5,
+              "saturation": 24
             }
           },
-          "colorNoiseReduction": 31,
+          "colorNoiseReduction": 5,
           "contrast": 0,
           "curves": {
             "blue": [
               {
                 "x": 0,
                 "y": 0
-              },
-              {
-                "x": 128,
-                "y": 132
               },
               {
                 "x": 255,
@@ -62,16 +58,16 @@
                 "y": 0
               },
               {
-                "x": 63,
-                "y": 55
+                "x": 60,
+                "y": 64.26829268292684
               },
               {
-                "x": 130,
-                "y": 128
+                "x": 127.5,
+                "y": 136.8292682926829
               },
               {
-                "x": 193,
-                "y": 203
+                "x": 190.71428571428572,
+                "y": 203.1707317073171
               },
               {
                 "x": 255,
@@ -84,66 +80,62 @@
                 "y": 0
               },
               {
-                "x": 123,
-                "y": 137
-              },
-              {
                 "x": 255,
                 "y": 255
               }
             ]
           },
-          "dehaze": 22,
+          "dehaze": 0,
           "enableNegativeConversion": false,
-          "exposure": 0,
+          "exposure": 1,
           "filmBaseColor": "#ff8800",
-          "grainAmount": 0,
-          "grainRoughness": 50,
-          "grainSize": 25,
-          "highlights": 0,
+          "grainAmount": 10,
+          "grainRoughness": 40,
+          "grainSize": 19,
+          "highlights": 20,
           "hsl": {
             "aquas": {
-              "hue": 43,
-              "luminance": 97,
-              "saturation": -100
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
             },
             "blues": {
-              "hue": 57,
-              "luminance": -59,
-              "saturation": -100
+              "hue": 5,
+              "luminance": 4,
+              "saturation": 5
             },
             "greens": {
-              "hue": 1,
-              "luminance": -25,
-              "saturation": -100
+              "hue": 5,
+              "luminance": -5,
+              "saturation": 5
             },
             "magentas": {
               "hue": 0,
-              "luminance": -100,
-              "saturation": -100
+              "luminance": 0,
+              "saturation": 0
             },
             "oranges": {
-              "hue": -32,
-              "luminance": 13,
-              "saturation": -23
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 5
             },
             "purples": {
               "hue": 0,
-              "luminance": -100,
-              "saturation": -100
+              "luminance": 0,
+              "saturation": 0
             },
             "reds": {
-              "hue": 11,
-              "luminance": -3,
-              "saturation": 23
+              "hue": 4,
+              "luminance": 5,
+              "saturation": 5
             },
             "yellows": {
-              "hue": 0,
-              "luminance": -6,
-              "saturation": -100
+              "hue": 5,
+              "luminance": -5,
+              "saturation": 5
             }
           },
-          "lumaNoiseReduction": 50,
+          "lumaNoiseReduction": 5,
           "lutIntensity": 100,
           "lutName": null,
           "lutPath": null,
@@ -151,7 +143,7 @@
           "negativeBlueBalance": 0,
           "negativeGreenBalance": 0,
           "negativeRedBalance": 0,
-          "saturation": -12,
+          "saturation": 10,
           "sectionVisibility": {
             "basic": true,
             "color": true,
@@ -159,18 +151,18 @@
             "details": true,
             "effects": true
           },
-          "shadows": 44,
-          "sharpness": 0,
+          "shadows": 25,
+          "sharpness": 15,
           "showClipping": false,
-          "structure": 6,
-          "temperature": 12,
-          "tint": -16,
-          "vibrance": 26,
-          "vignetteAmount": -3,
+          "structure": 0,
+          "temperature": 0,
+          "tint": 0,
+          "vibrance": 0,
+          "vignetteAmount": 0,
           "vignetteFeather": 50,
           "vignetteMidpoint": 50,
           "vignetteRoundness": 0,
-          "whites": -44
+          "whites": 20
         }
       }
     }
