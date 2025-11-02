@@ -83,7 +83,7 @@
           },
           "dehaze": 10,
           "enableNegativeConversion": false,
-          "exposure": 0.75,
+          "brightness": 0.75,
           "filmBaseColor": "#ff8800",
           "grainAmount": 0,
           "grainRoughness": 50,

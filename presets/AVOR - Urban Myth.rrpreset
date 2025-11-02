@@ -95,7 +95,7 @@
           },
           "dehaze": 22,
           "enableNegativeConversion": false,
-          "exposure": 0,
+          "brightness": 0,
           "filmBaseColor": "#ff8800",
           "grainAmount": 0,
           "grainRoughness": 50,
@@ -104,22 +104,22 @@
           "hsl": {
             "aquas": {
               "hue": 43,
-              "luminance": 97,
+              "luminance": 00,
               "saturation": -100
             },
             "blues": {
               "hue": 57,
-              "luminance": -59,
+              "luminance": -40,
               "saturation": -100
             },
             "greens": {
               "hue": 1,
-              "luminance": -25,
+              "luminance": -10,
               "saturation": -100
             },
             "magentas": {
               "hue": 0,
-              "luminance": -100,
+              "luminance": -10,
               "saturation": -100
             },
             "oranges": {
@@ -129,7 +129,7 @@
             },
             "purples": {
               "hue": 0,
-              "luminance": -100,
+              "luminance": -10,
               "saturation": -100
             },
             "reds": {

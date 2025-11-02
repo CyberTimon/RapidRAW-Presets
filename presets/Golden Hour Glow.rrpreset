@@ -89,7 +89,7 @@
           },
           "dehaze": 0,
           "enableNegativeConversion": false,
-          "exposure": 0.42,
+          "brightness": 0.42,
           "filmBaseColor": "#ff8800",
           "grainAmount": 0,
           "grainRoughness": 50,
@@ -117,9 +117,9 @@
               "saturation": 0
             },
             "oranges": {
-              "hue": -29,
-              "luminance": 35,
-              "saturation": 61
+              "hue": -17,
+              "luminance": 20,
+              "saturation": 50
             },
             "purples": {
               "hue": 0,
@@ -128,7 +128,7 @@
             },
             "reds": {
               "hue": -6,
-              "luminance": 5,
+              "luminance": 10,
               "saturation": 13
             },
             "yellows": {
