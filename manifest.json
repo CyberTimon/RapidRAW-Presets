@@ -1508,6 +1508,169 @@
     }
   },
   {
+    "name": "Hyper exposed",
+    "creator": "Matt Kelly",
+    "adjustments": {
+      "blacks": -60,
+      "brightness": 1.14,
+      "centré": 1,
+      "chromaticAberrationBlueYellow": 0,
+      "chromaticAberrationRedCyan": 0,
+      "clarity": 7,
+      "colorCalibration": {
+        "blueHue": 0,
+        "blueSaturation": 0,
+        "greenHue": 0,
+        "greenSaturation": 0,
+        "redHue": 0,
+        "redSaturation": 0,
+        "shadowsTint": 0
+      },
+      "colorGrading": {
+        "balance": -23,
+        "blending": 69,
+        "highlights": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "midtones": {
+          "hue": 359,
+          "luminance": 0,
+          "saturation": 34
+        },
+        "shadows": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        }
+      },
+      "colorNoiseReduction": 0,
+      "contrast": 49,
+      "curves": {
+        "blue": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "green": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "luma": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "red": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ]
+      },
+      "dehaze": 0,
+      "enableNegativeConversion": false,
+      "exposure": 0,
+      "filmBaseColor": "#ff8800",
+      "grainAmount": 0,
+      "grainRoughness": 50,
+      "grainSize": 25,
+      "highlights": 0,
+      "hsl": {
+        "aquas": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "blues": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "greens": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "magentas": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "oranges": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "purples": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "reds": {
+          "hue": 0,
+          "luminance": -88,
+          "saturation": 5
+        },
+        "yellows": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        }
+      },
+      "lumaNoiseReduction": 0,
+      "lutIntensity": 100,
+      "lutName": null,
+      "lutPath": null,
+      "lutSize": 0,
+      "negativeBlueBalance": 0,
+      "negativeGreenBalance": 0,
+      "negativeRedBalance": 0,
+      "saturation": 0,
+      "sectionVisibility": {
+        "basic": true,
+        "color": true,
+        "curves": true,
+        "details": true,
+        "effects": true
+      },
+      "shadows": -34,
+      "sharpness": 0,
+      "showClipping": false,
+      "structure": 0,
+      "temperature": 15,
+      "tint": 0,
+      "toneMapper": "basic",
+      "vibrance": 0,
+      "vignetteAmount": 0,
+      "vignetteFeather": 50,
+      "vignetteMidpoint": 50,
+      "vignetteRoundness": 0,
+      "whites": -21
+    }
+  },
+  {
     "name": "Moody Forest",
     "creator": "Timon Käch",
     "adjustments": {
