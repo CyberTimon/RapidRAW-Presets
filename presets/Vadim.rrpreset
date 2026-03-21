@@ -1,22 +1,33 @@
 {
-  "creator": "avoiceofreason",
+  "creator": "Kacper Węgrowski",
   "presets": [
     {
       "preset": {
-        "id": "0fab2ac4-9600-42a6-83f0-3ffdc5a5ae01",
-        "name": "AVOR - Urban Myth",
+        "id": "6f5b202d-19e3-46dc-92a4-d66e7d5b1000",
+        "name": "Vadim",
         "adjustments": {
-          "blacks": -28,
+          "blacks": -35,
+          "brightness": 0,
+          "centré": 0,
           "chromaticAberrationBlueYellow": 0,
           "chromaticAberrationRedCyan": 0,
-          "clarity": 1,
+          "clarity": 0,
+          "colorCalibration": {
+            "blueHue": 0,
+            "blueSaturation": 0,
+            "greenHue": 0,
+            "greenSaturation": 0,
+            "redHue": 0,
+            "redSaturation": 0,
+            "shadowsTint": 0
+          },
           "colorGrading": {
-            "balance": 0,
+            "balance": 41,
             "blending": 50,
             "highlights": {
-              "hue": 197,
+              "hue": 25,
               "luminance": 0,
-              "saturation": 34
+              "saturation": 16
             },
             "midtones": {
               "hue": 0,
@@ -24,22 +35,18 @@
               "saturation": 0
             },
             "shadows": {
-              "hue": 182,
+              "hue": 196,
               "luminance": 0,
-              "saturation": 22
+              "saturation": 7
             }
           },
-          "colorNoiseReduction": 31,
-          "contrast": 0,
+          "colorNoiseReduction": 25,
+          "contrast": 10,
           "curves": {
             "blue": [
               {
                 "x": 0,
                 "y": 0
-              },
-              {
-                "x": 128,
-                "y": 132
               },
               {
                 "x": 255,
@@ -62,16 +69,12 @@
                 "y": 0
               },
               {
-                "x": 63,
-                "y": 55
+                "x": 85,
+                "y": 81
               },
               {
-                "x": 130,
-                "y": 128
-              },
-              {
-                "x": 193,
-                "y": 203
+                "x": 165,
+                "y": 183
               },
               {
                 "x": 255,
@@ -84,66 +87,65 @@
                 "y": 0
               },
               {
-                "x": 123,
-                "y": 137
-              },
-              {
                 "x": 255,
                 "y": 255
               }
             ]
           },
-          "dehaze": 22,
+          "dehaze": -13,
           "enableNegativeConversion": false,
-          "brightness": 0,
+          "exposure": 0.6,
           "filmBaseColor": "#ff8800",
-          "grainAmount": 0,
+          "flareAmount": 0,
+          "glowAmount": 0,
+          "grainAmount": 40,
           "grainRoughness": 50,
           "grainSize": 25,
-          "highlights": 0,
+          "halationAmount": 0,
+          "highlights": -40,
           "hsl": {
             "aquas": {
-              "hue": 43,
-              "luminance": 0,
-              "saturation": -100
+              "hue": -6.75,
+              "luminance": -4,
+              "saturation": -1
             },
             "blues": {
-              "hue": 57,
-              "luminance": -40,
-              "saturation": -100
+              "hue": -11.25,
+              "luminance": 0,
+              "saturation": 27
             },
             "greens": {
-              "hue": 1,
-              "luminance": -10,
-              "saturation": -100
+              "hue": 15.75,
+              "luminance": -9,
+              "saturation": -40
             },
             "magentas": {
               "hue": 0,
-              "luminance": -10,
-              "saturation": -100
+              "luminance": 0,
+              "saturation": 0
             },
             "oranges": {
-              "hue": -32,
-              "luminance": 13,
-              "saturation": -23
+              "hue": 0,
+              "luminance": 0,
+              "saturation": -55
             },
             "purples": {
               "hue": 0,
-              "luminance": -10,
-              "saturation": -100
+              "luminance": 0,
+              "saturation": 0
             },
             "reds": {
-              "hue": 11,
-              "luminance": -3,
-              "saturation": 23
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
             },
             "yellows": {
               "hue": 0,
-              "luminance": -6,
-              "saturation": -100
+              "luminance": 0,
+              "saturation": -20
             }
           },
-          "lumaNoiseReduction": 50,
+          "lumaNoiseReduction": 0,
           "lutIntensity": 100,
           "lutName": null,
           "lutPath": null,
@@ -151,7 +153,7 @@
           "negativeBlueBalance": 0,
           "negativeGreenBalance": 0,
           "negativeRedBalance": 0,
-          "saturation": -12,
+          "saturation": 0,
           "sectionVisibility": {
             "basic": true,
             "color": true,
@@ -159,18 +161,19 @@
             "details": true,
             "effects": true
           },
-          "shadows": 44,
-          "sharpness": 0,
+          "shadows": 15,
+          "sharpness": 26.666666666666668,
           "showClipping": false,
-          "structure": 6,
-          "temperature": 12,
-          "tint": -16,
-          "vibrance": 26,
-          "vignetteAmount": -3,
+          "structure": 0,
+          "temperature": 10.30202522739836,
+          "tint": 17.333333333333336,
+          "toneMapper": "basic",
+          "vibrance": 15,
+          "vignetteAmount": 0,
           "vignetteFeather": 50,
           "vignetteMidpoint": 50,
           "vignetteRoundness": 0,
-          "whites": -44
+          "whites": -35
         }
       }
     }
