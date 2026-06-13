@@ -1814,6 +1814,203 @@
     }
   },
   {
+    "name": "Film Inspired P400UC _rev2",
+    "creator": "wholemonkey",
+    "adjustments": {
+      "blacks": 25,
+      "brightness": 0.4,
+      "centré": 0,
+      "chromaticAberrationBlueYellow": 0,
+      "chromaticAberrationRedCyan": 0,
+      "clarity": 10,
+      "colorCalibration": {
+        "blueHue": -5,
+        "blueSaturation": 5,
+        "greenHue": 5,
+        "greenSaturation": 0,
+        "redHue": 10,
+        "redSaturation": 0,
+        "shadowsTint": 0
+      },
+      "colorGrading": {
+        "balance": 0,
+        "blending": 50,
+        "global": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "highlights": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "midtones": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "shadows": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        }
+      },
+      "contrast": 15,
+      "curves": {
+        "blue": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 43,
+            "y": 33
+          },
+          {
+            "x": 130,
+            "y": 130
+          },
+          {
+            "x": 179,
+            "y": 191
+          },
+          {
+            "x": 255,
+            "y": 252
+          }
+        ],
+        "green": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 44,
+            "y": 33
+          },
+          {
+            "x": 127,
+            "y": 129
+          },
+          {
+            "x": 173,
+            "y": 185
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "luma": [
+          {
+            "x": 0,
+            "y": 14
+          },
+          {
+            "x": 255,
+            "y": 249
+          }
+        ],
+        "red": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 45,
+            "y": 32
+          },
+          {
+            "x": 87,
+            "y": 76
+          },
+          {
+            "x": 126,
+            "y": 130
+          },
+          {
+            "x": 177,
+            "y": 191
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ]
+      },
+      "dehaze": 0,
+      "exposure": 0.7,
+      "flareAmount": 10,
+      "glowAmount": 10,
+      "grainAmount": 35,
+      "grainRoughness": 50,
+      "grainSize": 50,
+      "halationAmount": 15,
+      "highlights": -20,
+      "hsl": {
+        "aquas": {
+          "hue": 0,
+          "luminance": -10,
+          "saturation": -30
+        },
+        "blues": {
+          "hue": -10,
+          "luminance": -30,
+          "saturation": -20
+        },
+        "greens": {
+          "hue": 30,
+          "luminance": -15,
+          "saturation": -50
+        },
+        "magentas": {
+          "hue": 20,
+          "luminance": -10,
+          "saturation": -25
+        },
+        "oranges": {
+          "hue": 2,
+          "luminance": -8,
+          "saturation": -4
+        },
+        "purples": {
+          "hue": 15,
+          "luminance": -10,
+          "saturation": -30
+        },
+        "reds": {
+          "hue": 15,
+          "luminance": -15,
+          "saturation": -10
+        },
+        "yellows": {
+          "hue": 15,
+          "luminance": 0,
+          "saturation": -5
+        }
+      },
+      "lutData": null,
+      "lutIntensity": 100,
+      "lutName": null,
+      "lutPath": null,
+      "lutSize": 0,
+      "saturation": 5,
+      "shadows": 25,
+      "sharpness": 5,
+      "structure": 0,
+      "temperature": 0,
+      "tint": 0,
+      "toneMapper": "agx",
+      "vibrance": 0,
+      "vignetteAmount": -5,
+      "vignetteFeather": 50,
+      "vignetteMidpoint": 50,
+      "vignetteRoundness": 0,
+      "whites": -10
+    }
+  },
+  {
     "name": "Golden Hour Glow",
     "creator": "Timon Käch",
     "adjustments": {
