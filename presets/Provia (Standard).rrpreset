@@ -1,0 +1,155 @@
+{
+  "creator": "Sandeep Subba",
+  "presets": [
+    {
+      "preset": {
+        "id": "8d6a4f02-ac83-4750-88d4-00b5b1236be2",
+        "name": "Provia (Standard)",
+        "adjustments": {
+          "brightness": 0,
+          "contrast": 10,
+          "highlights": 0,
+          "shadows": 0,
+          "whites": 0,
+          "blacks": -2,
+          "temperature": 0,
+          "tint": 0,
+          "saturation": 2,
+          "vibrance": 6,
+          "hsl": {
+            "reds": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "oranges": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "yellows": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "greens": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "aquas": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "blues": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "purples": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "magentas": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            }
+          },
+          "colorGrading": {
+            "shadows": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "midtones": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "highlights": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "blending": 50,
+            "balance": 0
+          },
+          "curves": {
+            "luma": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 62,
+                "y": 55
+              },
+              {
+                "x": 192,
+                "y": 200
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "red": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "green": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "blue": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ]
+          },
+          "clarity": 0,
+          "dehaze": 0,
+          "structure": 0,
+          "sharpness": 0,
+          "grainAmount": 0,
+          "grainSize": 25,
+          "grainRoughness": 50,
+          "vignetteAmount": 0,
+          "vignetteMidpoint": 50,
+          "vignetteFeather": 50,
+          "vignetteRoundness": 0,
+          "lumaNoiseReduction": 0,
+          "colorNoiseReduction": 0,
+          "chromaticAberrationRedCyan": 0,
+          "chromaticAberrationBlueYellow": 0,
+          "lutPath": null,
+          "lutName": null,
+          "lutSize": 0,
+          "lutIntensity": 100,
+          "enableNegativeConversion": false,
+          "toneMapper": "agx"
+        }
+      }
+    }
+  ]
+}

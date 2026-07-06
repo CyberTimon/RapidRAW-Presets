@@ -1,0 +1,155 @@
+{
+  "creator": "Sandeep Subba",
+  "presets": [
+    {
+      "preset": {
+        "id": "6def4585-b78a-41c4-8266-06cdb656569a",
+        "name": "Classic Neg",
+        "adjustments": {
+          "brightness": 0,
+          "contrast": 12,
+          "highlights": 0,
+          "shadows": 0,
+          "whites": 0,
+          "blacks": 0,
+          "temperature": 0,
+          "tint": 0,
+          "saturation": -18,
+          "vibrance": 0,
+          "hsl": {
+            "reds": {
+              "hue": 4,
+              "saturation": -8,
+              "luminance": 0
+            },
+            "oranges": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "yellows": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "greens": {
+              "hue": -10,
+              "saturation": -18,
+              "luminance": 0
+            },
+            "aquas": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "blues": {
+              "hue": 0,
+              "saturation": -22,
+              "luminance": -8
+            },
+            "purples": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "magentas": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            }
+          },
+          "colorGrading": {
+            "shadows": {
+              "hue": 185,
+              "saturation": 9,
+              "luminance": 0
+            },
+            "midtones": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "highlights": {
+              "hue": 340,
+              "saturation": 7,
+              "luminance": 0
+            },
+            "blending": 50,
+            "balance": 0
+          },
+          "curves": {
+            "luma": [
+              {
+                "x": 0,
+                "y": 6
+              },
+              {
+                "x": 60,
+                "y": 52
+              },
+              {
+                "x": 185,
+                "y": 200
+              },
+              {
+                "x": 255,
+                "y": 250
+              }
+            ],
+            "red": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "green": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "blue": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ]
+          },
+          "clarity": 0,
+          "dehaze": 0,
+          "structure": 0,
+          "sharpness": 0,
+          "grainAmount": 10,
+          "grainSize": 22,
+          "grainRoughness": 50,
+          "vignetteAmount": 0,
+          "vignetteMidpoint": 50,
+          "vignetteFeather": 50,
+          "vignetteRoundness": 0,
+          "lumaNoiseReduction": 0,
+          "colorNoiseReduction": 0,
+          "chromaticAberrationRedCyan": 0,
+          "chromaticAberrationBlueYellow": 0,
+          "lutPath": null,
+          "lutName": null,
+          "lutSize": 0,
+          "lutIntensity": 100,
+          "enableNegativeConversion": false,
+          "toneMapper": "agx"
+        }
+      }
+    }
+  ]
+}
