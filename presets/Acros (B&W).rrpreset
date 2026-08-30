@@ -1,0 +1,155 @@
+{
+  "creator": "Sandeep Subba",
+  "presets": [
+    {
+      "preset": {
+        "id": "2b93f523-c830-4601-bff0-0365ef318248",
+        "name": "Acros (B&W)",
+        "adjustments": {
+          "brightness": 0,
+          "contrast": 15,
+          "highlights": 0,
+          "shadows": 0,
+          "whites": 5,
+          "blacks": -10,
+          "temperature": 0,
+          "tint": 0,
+          "saturation": -100,
+          "vibrance": 0,
+          "hsl": {
+            "reds": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "oranges": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "yellows": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "greens": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "aquas": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "blues": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "purples": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "magentas": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            }
+          },
+          "colorGrading": {
+            "shadows": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "midtones": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "highlights": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "blending": 50,
+            "balance": 0
+          },
+          "curves": {
+            "luma": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 56,
+                "y": 44
+              },
+              {
+                "x": 200,
+                "y": 208
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "red": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "green": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "blue": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ]
+          },
+          "clarity": 8,
+          "dehaze": 0,
+          "structure": 10,
+          "sharpness": 10,
+          "grainAmount": 18,
+          "grainSize": 20,
+          "grainRoughness": 60,
+          "vignetteAmount": 0,
+          "vignetteMidpoint": 50,
+          "vignetteFeather": 50,
+          "vignetteRoundness": 0,
+          "lumaNoiseReduction": 0,
+          "colorNoiseReduction": 0,
+          "chromaticAberrationRedCyan": 0,
+          "chromaticAberrationBlueYellow": 0,
+          "lutPath": null,
+          "lutName": null,
+          "lutSize": 0,
+          "lutIntensity": 100,
+          "enableNegativeConversion": false,
+          "toneMapper": "agx"
+        }
+      }
+    }
+  ]
+}

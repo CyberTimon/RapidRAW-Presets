@@ -1,0 +1,155 @@
+{
+  "creator": "Sandeep Subba",
+  "presets": [
+    {
+      "preset": {
+        "id": "ecef6576-1826-446d-8a3f-ba768e61119c",
+        "name": "Vision3 500T (Cine)",
+        "adjustments": {
+          "brightness": 0,
+          "contrast": -14,
+          "highlights": -12,
+          "shadows": 12,
+          "whites": 0,
+          "blacks": 0,
+          "temperature": -4,
+          "tint": 0,
+          "saturation": -18,
+          "vibrance": 0,
+          "hsl": {
+            "reds": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "oranges": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "yellows": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "greens": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "aquas": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "blues": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "purples": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "magentas": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            }
+          },
+          "colorGrading": {
+            "shadows": {
+              "hue": 195,
+              "saturation": 8,
+              "luminance": 0
+            },
+            "midtones": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "highlights": {
+              "hue": 40,
+              "saturation": 6,
+              "luminance": 0
+            },
+            "blending": 50,
+            "balance": 0
+          },
+          "curves": {
+            "luma": [
+              {
+                "x": 0,
+                "y": 10
+              },
+              {
+                "x": 70,
+                "y": 70
+              },
+              {
+                "x": 198,
+                "y": 194
+              },
+              {
+                "x": 255,
+                "y": 246
+              }
+            ],
+            "red": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "green": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "blue": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ]
+          },
+          "clarity": 0,
+          "dehaze": 0,
+          "structure": 0,
+          "sharpness": 0,
+          "grainAmount": 8,
+          "grainSize": 24,
+          "grainRoughness": 50,
+          "vignetteAmount": 0,
+          "vignetteMidpoint": 50,
+          "vignetteFeather": 50,
+          "vignetteRoundness": 0,
+          "lumaNoiseReduction": 0,
+          "colorNoiseReduction": 0,
+          "chromaticAberrationRedCyan": 0,
+          "chromaticAberrationBlueYellow": 0,
+          "lutPath": null,
+          "lutName": null,
+          "lutSize": 0,
+          "lutIntensity": 100,
+          "enableNegativeConversion": false,
+          "toneMapper": "agx"
+        }
+      }
+    }
+  ]
+}

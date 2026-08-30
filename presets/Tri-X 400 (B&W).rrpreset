@@ -1,0 +1,155 @@
+{
+  "creator": "Sandeep Subba",
+  "presets": [
+    {
+      "preset": {
+        "id": "1901c9b5-a00d-4c20-9799-470d96580617",
+        "name": "Tri-X 400 (B&W)",
+        "adjustments": {
+          "brightness": 0,
+          "contrast": 22,
+          "highlights": 0,
+          "shadows": 0,
+          "whites": 6,
+          "blacks": -12,
+          "temperature": 0,
+          "tint": 0,
+          "saturation": -100,
+          "vibrance": 0,
+          "hsl": {
+            "reds": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "oranges": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "yellows": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "greens": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "aquas": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "blues": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "purples": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "magentas": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            }
+          },
+          "colorGrading": {
+            "shadows": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "midtones": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "highlights": {
+              "hue": 0,
+              "saturation": 0,
+              "luminance": 0
+            },
+            "blending": 50,
+            "balance": 0
+          },
+          "curves": {
+            "luma": [
+              {
+                "x": 0,
+                "y": 4
+              },
+              {
+                "x": 52,
+                "y": 40
+              },
+              {
+                "x": 200,
+                "y": 210
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "red": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "green": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "blue": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ]
+          },
+          "clarity": 12,
+          "dehaze": 0,
+          "structure": 8,
+          "sharpness": 8,
+          "grainAmount": 30,
+          "grainSize": 30,
+          "grainRoughness": 70,
+          "vignetteAmount": 0,
+          "vignetteMidpoint": 50,
+          "vignetteFeather": 50,
+          "vignetteRoundness": 0,
+          "lumaNoiseReduction": 0,
+          "colorNoiseReduction": 0,
+          "chromaticAberrationRedCyan": 0,
+          "chromaticAberrationBlueYellow": 0,
+          "lutPath": null,
+          "lutName": null,
+          "lutSize": 0,
+          "lutIntensity": 100,
+          "enableNegativeConversion": false,
+          "toneMapper": "agx"
+        }
+      }
+    }
+  ]
+}
