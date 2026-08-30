@@ -2509,6 +2509,336 @@
     }
   },
   {
+    "name": "Misty",
+    "creator": "ellatuk",
+    "adjustments": {
+      "blacks": -5,
+      "brightness": 0,
+      "centré": 30,
+      "chromaticAberrationBlueYellow": 0,
+      "chromaticAberrationRedCyan": 0,
+      "clarity": -15,
+      "colorCalibration": {
+        "blueHue": 0,
+        "blueSaturation": 10,
+        "greenHue": -10,
+        "greenSaturation": -25,
+        "redHue": 0,
+        "redSaturation": 5,
+        "shadowsTint": -15
+      },
+      "colorGrading": {
+        "balance": 0,
+        "blending": 50,
+        "global": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "highlights": {
+          "hue": 45,
+          "luminance": 20,
+          "saturation": 10
+        },
+        "midtones": {
+          "hue": 180,
+          "luminance": 0,
+          "saturation": -10
+        },
+        "shadows": {
+          "hue": 210,
+          "luminance": -10,
+          "saturation": 15
+        }
+      },
+      "colorNoiseReduction": 10,
+      "contrast": 10,
+      "curveMode": "parametric",
+      "curves": {
+        "blue": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 31.875,
+            "y": 31.875
+          },
+          {
+            "x": 63.75,
+            "y": 63.75
+          },
+          {
+            "x": 127.5,
+            "y": 127.5
+          },
+          {
+            "x": 191.25,
+            "y": 191.25
+          },
+          {
+            "x": 223.125,
+            "y": 223.125
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "green": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 31.875,
+            "y": 31.875
+          },
+          {
+            "x": 63.75,
+            "y": 63.75
+          },
+          {
+            "x": 127.5,
+            "y": 127.5
+          },
+          {
+            "x": 191.25,
+            "y": 191.25
+          },
+          {
+            "x": 223.125,
+            "y": 223.125
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "luma": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 31.875,
+            "y": 25
+          },
+          {
+            "x": 63.75,
+            "y": 55
+          },
+          {
+            "x": 127.5,
+            "y": 120
+          },
+          {
+            "x": 191.25,
+            "y": 175
+          },
+          {
+            "x": 223.125,
+            "y": 210
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "red": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 31.875,
+            "y": 31.875
+          },
+          {
+            "x": 63.75,
+            "y": 63.75
+          },
+          {
+            "x": 127.5,
+            "y": 127.5
+          },
+          {
+            "x": 191.25,
+            "y": 191.25
+          },
+          {
+            "x": 223.125,
+            "y": 223.125
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ]
+      },
+      "dehaze": 10,
+      "exposure": -0.05,
+      "flareAmount": 0,
+      "glowAmount": 20,
+      "grainAmount": 10,
+      "grainRoughness": 50,
+      "grainSize": 20,
+      "halationAmount": 0,
+      "highlights": -25,
+      "hsl": {
+        "aquas": {
+          "hue": 5,
+          "luminance": 0,
+          "saturation": -15
+        },
+        "blues": {
+          "hue": 10,
+          "luminance": -5,
+          "saturation": -5
+        },
+        "greens": {
+          "hue": 0,
+          "luminance": -15,
+          "saturation": -40
+        },
+        "magentas": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": -20
+        },
+        "oranges": {
+          "hue": -5,
+          "luminance": 5,
+          "saturation": -10
+        },
+        "purples": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": -10
+        },
+        "reds": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": -5
+        },
+        "yellows": {
+          "hue": -15,
+          "luminance": 5,
+          "saturation": -35
+        }
+      },
+      "hue": 0,
+      "lumaNoiseReduction": 5,
+      "lutData": null,
+      "lutIntensity": 100,
+      "lutName": null,
+      "lutPath": null,
+      "lutSize": 0,
+      "parametricCurve": {
+        "blue": {
+          "blackLevel": 0,
+          "darks": 0,
+          "highlights": 0,
+          "lights": 0,
+          "shadows": 0,
+          "split1": 25,
+          "split2": 50,
+          "split3": 75,
+          "whiteLevel": 0
+        },
+        "green": {
+          "blackLevel": 0,
+          "darks": 0,
+          "highlights": 0,
+          "lights": 0,
+          "shadows": 0,
+          "split1": 25,
+          "split2": 50,
+          "split3": 75,
+          "whiteLevel": 0
+        },
+        "luma": {
+          "blackLevel": 0,
+          "darks": -10,
+          "highlights": -30,
+          "lights": -15,
+          "shadows": -5,
+          "split1": 25,
+          "split2": 50,
+          "split3": 75,
+          "whiteLevel": 0
+        },
+        "red": {
+          "blackLevel": 0,
+          "darks": 0,
+          "highlights": 0,
+          "lights": 0,
+          "shadows": 0,
+          "split1": 25,
+          "split2": 50,
+          "split3": 75,
+          "whiteLevel": 0
+        }
+      },
+      "pointCurves": {
+        "blue": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "green": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "luma": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "red": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ]
+      },
+      "saturation": -5,
+      "shadows": -10,
+      "sharpness": 25,
+      "sharpnessThreshold": 20,
+      "structure": 5,
+      "temperature": -5,
+      "tint": 0,
+      "toneMapper": "basic",
+      "vibrance": -10,
+      "vignetteAmount": -15,
+      "vignetteFeather": 70,
+      "vignetteMidpoint": 30,
+      "vignetteRoundness": 0,
+      "whites": 10
+    }
+  },
+  {
     "name": "Moody Forest",
     "creator": "Timon Käch",
     "adjustments": {
@@ -2667,6 +2997,268 @@
       "vignetteMidpoint": 50,
       "vignetteRoundness": 0,
       "whites": 0
+    }
+  },
+  {
+    "name": "Urban Matte",
+    "creator": "ArqRichard",
+    "adjustments": {
+      "blacks": -30,
+      "brightness": 0.65,
+      "centré": 0,
+      "chromaticAberrationBlueYellow": 0,
+      "chromaticAberrationRedCyan": 0,
+      "clarity": 0,
+      "colorCalibration": {
+        "blueHue": 0,
+        "blueSaturation": 0,
+        "greenHue": 0,
+        "greenSaturation": 0,
+        "redHue": 0,
+        "redSaturation": 0,
+        "shadowsTint": 0
+      },
+      "colorGrading": {
+        "balance": 0,
+        "blending": 50,
+        "global": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "highlights": {
+          "hue": 187,
+          "luminance": -5,
+          "saturation": 72
+        },
+        "midtones": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "shadows": {
+          "hue": 352,
+          "luminance": 0,
+          "saturation": 58
+        }
+      },
+      "colorNoiseReduction": 0,
+      "contrast": 0,
+      "curveMode": "point",
+      "curves": {
+        "blue": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "green": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "luma": [
+          {
+            "x": 0,
+            "y": 18.214285714285698
+          },
+          {
+            "x": 58.92857142857143,
+            "y": 54.64285714285714
+          },
+          {
+            "x": 129.64285714285714,
+            "y": 131.78571428571428
+          },
+          {
+            "x": 186.42857142857144,
+            "y": 193.92857142857144
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "red": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ]
+      },
+      "dehaze": 0,
+      "exposure": 0,
+      "flareAmount": 0,
+      "glowAmount": 0,
+      "grainAmount": 0,
+      "grainRoughness": 50,
+      "grainSize": 25,
+      "halationAmount": 0,
+      "highlights": 0,
+      "hsl": {
+        "aquas": {
+          "hue": 0,
+          "luminance": -20,
+          "saturation": -45
+        },
+        "blues": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "greens": {
+          "hue": -100,
+          "luminance": -8,
+          "saturation": -50
+        },
+        "magentas": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "oranges": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": -20
+        },
+        "purples": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "reds": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        },
+        "yellows": {
+          "hue": 0,
+          "luminance": 0,
+          "saturation": 0
+        }
+      },
+      "hue": 0,
+      "lumaNoiseReduction": 0,
+      "lutData": null,
+      "lutIntensity": 100,
+      "lutName": null,
+      "lutPath": null,
+      "lutSize": 0,
+      "parametricCurve": {
+        "blue": {
+          "blackLevel": 0,
+          "darks": 0,
+          "highlights": 0,
+          "lights": 0,
+          "shadows": 0,
+          "split1": 25,
+          "split2": 50,
+          "split3": 75,
+          "whiteLevel": 0
+        },
+        "green": {
+          "blackLevel": 0,
+          "darks": 0,
+          "highlights": 0,
+          "lights": 0,
+          "shadows": 0,
+          "split1": 25,
+          "split2": 50,
+          "split3": 75,
+          "whiteLevel": 0
+        },
+        "luma": {
+          "blackLevel": 0,
+          "darks": 0,
+          "highlights": 0,
+          "lights": 0,
+          "shadows": 0,
+          "split1": 25,
+          "split2": 50,
+          "split3": 75,
+          "whiteLevel": 0
+        },
+        "red": {
+          "blackLevel": 0,
+          "darks": 0,
+          "highlights": 0,
+          "lights": 0,
+          "shadows": 0,
+          "split1": 25,
+          "split2": 50,
+          "split3": 75,
+          "whiteLevel": 0
+        }
+      },
+      "pointCurves": {
+        "blue": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "green": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "luma": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ],
+        "red": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 255,
+            "y": 255
+          }
+        ]
+      },
+      "saturation": 0,
+      "shadows": 41,
+      "sharpness": 22,
+      "sharpnessThreshold": 15,
+      "structure": 15,
+      "temperature": 6,
+      "tint": 20,
+      "toneMapper": "basic",
+      "vibrance": 10,
+      "vignetteAmount": 0,
+      "vignetteFeather": 50,
+      "vignetteMidpoint": 50,
+      "vignetteRoundness": 0,
+      "whites": -14
     }
   },
   {
