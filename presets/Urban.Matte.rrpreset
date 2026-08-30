@@ -1,0 +1,272 @@
+{
+  "creator": "ArqRichard",
+  "presets": [
+    {
+      "preset": {
+        "id": "1a28c190-16c0-4122-adcb-8765efd7c577",
+        "name": "Urban Matte",
+        "adjustments": {
+          "blacks": -30,
+          "brightness": 0.65,
+          "centré": 0,
+          "chromaticAberrationBlueYellow": 0,
+          "chromaticAberrationRedCyan": 0,
+          "clarity": 0,
+          "colorCalibration": {
+            "blueHue": 0,
+            "blueSaturation": 0,
+            "greenHue": 0,
+            "greenSaturation": 0,
+            "redHue": 0,
+            "redSaturation": 0,
+            "shadowsTint": 0
+          },
+          "colorGrading": {
+            "balance": 0,
+            "blending": 50,
+            "global": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
+            },
+            "highlights": {
+              "hue": 187,
+              "luminance": -5,
+              "saturation": 72
+            },
+            "midtones": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
+            },
+            "shadows": {
+              "hue": 352,
+              "luminance": 0,
+              "saturation": 58
+            }
+          },
+          "colorNoiseReduction": 0,
+          "contrast": 0,
+          "curveMode": "point",
+          "curves": {
+            "blue": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "green": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "luma": [
+              {
+                "x": 0,
+                "y": 18.214285714285698
+              },
+              {
+                "x": 58.92857142857143,
+                "y": 54.64285714285714
+              },
+              {
+                "x": 129.64285714285714,
+                "y": 131.78571428571428
+              },
+              {
+                "x": 186.42857142857144,
+                "y": 193.92857142857144
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "red": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ]
+          },
+          "dehaze": 0,
+          "exposure": 0,
+          "flareAmount": 0,
+          "glowAmount": 0,
+          "grainAmount": 0,
+          "grainRoughness": 50,
+          "grainSize": 25,
+          "halationAmount": 0,
+          "highlights": 0,
+          "hsl": {
+            "aquas": {
+              "hue": 0,
+              "luminance": -20,
+              "saturation": -45
+            },
+            "blues": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
+            },
+            "greens": {
+              "hue": -100,
+              "luminance": -8,
+              "saturation": -50
+            },
+            "magentas": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
+            },
+            "oranges": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": -20
+            },
+            "purples": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
+            },
+            "reds": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
+            },
+            "yellows": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
+            }
+          },
+          "hue": 0,
+          "lumaNoiseReduction": 0,
+          "lutData": null,
+          "lutIntensity": 100,
+          "lutName": null,
+          "lutPath": null,
+          "lutSize": 0,
+          "parametricCurve": {
+            "blue": {
+              "blackLevel": 0,
+              "darks": 0,
+              "highlights": 0,
+              "lights": 0,
+              "shadows": 0,
+              "split1": 25,
+              "split2": 50,
+              "split3": 75,
+              "whiteLevel": 0
+            },
+            "green": {
+              "blackLevel": 0,
+              "darks": 0,
+              "highlights": 0,
+              "lights": 0,
+              "shadows": 0,
+              "split1": 25,
+              "split2": 50,
+              "split3": 75,
+              "whiteLevel": 0
+            },
+            "luma": {
+              "blackLevel": 0,
+              "darks": 0,
+              "highlights": 0,
+              "lights": 0,
+              "shadows": 0,
+              "split1": 25,
+              "split2": 50,
+              "split3": 75,
+              "whiteLevel": 0
+            },
+            "red": {
+              "blackLevel": 0,
+              "darks": 0,
+              "highlights": 0,
+              "lights": 0,
+              "shadows": 0,
+              "split1": 25,
+              "split2": 50,
+              "split3": 75,
+              "whiteLevel": 0
+            }
+          },
+          "pointCurves": {
+            "blue": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "green": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "luma": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "red": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ]
+          },
+          "saturation": 0,
+          "shadows": 41,
+          "sharpness": 22,
+          "sharpnessThreshold": 15,
+          "structure": 15,
+          "temperature": 6,
+          "tint": 20,
+          "toneMapper": "basic",
+          "vibrance": 10,
+          "vignetteAmount": 0,
+          "vignetteFeather": 50,
+          "vignetteMidpoint": 50,
+          "vignetteRoundness": 0,
+          "whites": -14
+        },
+        "includeMasks": false,
+        "includeCropTransform": false,
+        "presetType": "style"
+      }
+    }
+  ]
+}
